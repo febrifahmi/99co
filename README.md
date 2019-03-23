@@ -43,4 +43,4 @@ Analisis yang bisa dilakukan:
 
 
 
-<i>Disclaimer: for research/educational purpose only please!</i>
+<i>Disclaimer: for research/educational purpose only please!</i> Silahkan baca <a href="https://www.99.co/id/terms?ref=footer">ketentuan layanan</a> situs 99co!
