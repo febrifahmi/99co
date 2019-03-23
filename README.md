@@ -32,7 +32,7 @@ Contoh:
 <img src="https://github.com/febrifahmi/99co/blob/master/data.png"></img>
 
 Analisis yang bisa dilakukan:
-- Distribusi properti dan berbagai atributnya (luas lahan, luas bangunan, jumlah kamar, harga, dsb) secara spasial
+- Distribusi properti dan berbagai atributnya (luas lahan, luas bangunan, jumlah kamar, harga, dsb) secara spasial dan dibandingkan dengan NJOP
 - Perbandingan harga properti yang ada di pasar properti online di berbagai daerah
 - Geocoding dapat dilakukan untuk data yang detail untuk analisis kedekatan dengan fasilitas publik
 - dsb.
