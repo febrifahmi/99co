@@ -43,6 +43,7 @@ Analisis yang bisa dilakukan:
 
 How to install Scrapy, see <a href="http://doc.scrapy.org/en/latest/intro/install.html">here</a>.
 
-
+Catatan:
+Pagination pada laman target hanya dibatasi 1000 page, sehingga request pada page ke-1001 (>1000) akan secara otomatis dialihkan ke laman www.99.co/id/cari .
 
 <i>Disclaimer: for research/educational purpose only please!</i> Silahkan baca <a href="https://www.99.co/id/terms?ref=footer">ketentuan layanan</a> situs 99co!
