@@ -41,6 +41,8 @@ Analisis yang bisa dilakukan:
 - Geocoding dapat dilakukan untuk data yang detail untuk analisis kedekatan dengan fasilitas publik
 - dsb.
 
+How to install Scrapy, see <a href="http://doc.scrapy.org/en/latest/intro/install.html">here</a>.
+
 
 
 <i>Disclaimer: for research/educational purpose only please!</i> Silahkan baca <a href="https://www.99.co/id/terms?ref=footer">ketentuan layanan</a> situs 99co!
