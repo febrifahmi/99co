@@ -1,7 +1,7 @@
 # 99co
-Scraper data listing properti di situs jual beli properti online 
+Scraper data listing properti di situs jual beli properti online: 
 
-Usage:
+<b>Usage:</b>
 
 <code>scrapy runspider scraperumah.py -o <outputfile.csv></code>
 
@@ -28,7 +28,8 @@ Data yang didapat meliputi:
 - tipe listing dijual atau disewakan
 - url properti
 
-Contoh:
+<b>Contoh:</b>
+
 <img src="https://github.com/febrifahmi/99co/blob/master/data.png"></img>
 
 Analisis yang bisa dilakukan:
@@ -36,3 +37,6 @@ Analisis yang bisa dilakukan:
 - Perbandingan harga properti yang ada di pasar properti online di berbagai daerah
 - Geocoding dapat dilakukan untuk data yang detail untuk analisis kedekatan dengan fasilitas publik
 - dsb.
+
+
+<i>Disclaimer: for research/educational purpose only please!</i>
