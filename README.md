@@ -28,6 +28,9 @@ Data yang didapat meliputi:
 - tipe listing dijual atau disewakan
 - url properti
 
+Contoh:
+<img src="https://github.com/febrifahmi/99co/blob/master/data.png"></img>
+
 Analisis yang bisa dilakukan:
 - Distribusi properti dan berbagai atributnya (luas lahan, luas bangunan, jumlah kamar, harga, dsb) secara spasial
 - Perbandingan harga properti yang ada di pasar properti online di berbagai daerah
