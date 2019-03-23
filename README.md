@@ -1,5 +1,8 @@
 # 99co
-Scraper data listing properti di situs jual beli properti online: 
+
+<img src="https://cdn.pixabay.com/photo/2017/09/07/08/53/money-2724237_960_720.jpg"></img>
+
+Scraper data listing properti di situs jual beli properti online.
 
 <b>Usage:</b>
 
@@ -37,6 +40,7 @@ Analisis yang bisa dilakukan:
 - Perbandingan harga properti yang ada di pasar properti online di berbagai daerah
 - Geocoding dapat dilakukan untuk data yang detail untuk analisis kedekatan dengan fasilitas publik
 - dsb.
+
 
 
 <i>Disclaimer: for research/educational purpose only please!</i>
